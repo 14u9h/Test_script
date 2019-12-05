@@ -1,0 +1,31 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+<meta charset="UTF-8" /> 
+<title>WebView 远程命令执行漏洞检测</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"> 
+</head>
+<body>
+<p>
+<b>如果当前 app 存在漏洞，将输出存在漏洞的接口：</b>
+</p> 
+<script type="text/javascript"> 
+function check() 
+{ 
+  for (var obj in window) 
+   { 
+      try {
+            if ("getClass" in window[obj]) { 
+                        try{ 
+                             window[obj].getClass();
+                             document.write('<span style="color:red">'+obj+'</span>');                              document.write('<br />');
+                        }catch(e){
+                        } 
+                      } 
+                 } catch(e) {
+                 }
+              } 
+} check();
+</script>
+</body> 
+</html>
