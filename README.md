@@ -20,6 +20,8 @@
 
 * [杀软查询工具](https://14u9h.github.io/Test_script/Tools/Auxiliary%20tool/getAvTool.html)
 
+* [Windows提权查询工具](https://14u9h.github.io/Test_script/Tools/getMSKB/getMSKB.html)
+
 #### App漏洞
 
 * [WebView 远程命令执行漏洞](https://14u9h.github.io/Test_script/AppSec/WebView_RCEV03.html)
