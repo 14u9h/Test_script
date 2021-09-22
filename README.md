@@ -18,7 +18,7 @@
 
 * [meTools](https://14u9h.github.io/Test_script/Tools/meTools/#/home)
 
-* [getAvTool](https://14u9h.github.io/Test_script/Tools/Auxiliary%20tool/getAvTool.html)
+* [杀软查询工具](https://14u9h.github.io/Test_script/Tools/Auxiliary%20tool/getAvTool.html)
 
 #### App漏洞
 
