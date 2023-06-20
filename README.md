@@ -28,7 +28,7 @@
 
 ### Client漏洞
 
-* [CVE-2018-8174-POC_IE漏洞](https://14u9h.github.io/Test_script/ClientSec/CVE-2018-8174_PoC.html)
+* [CVE-2018-8174-POC_IE漏洞](https://github.com/14u9h/Test_script/blob/master/ClientSec/CVE-2018-8174_PoC.html)
 
 ### Server漏洞
 
