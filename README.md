@@ -28,7 +28,7 @@
 
 ### Client漏洞
 
-* [CVE-2018-8174-POC_IE漏洞](https://github.com/14u9h/Test_script/blob/master/ClientSec/CVE-2018-8174_PoC.html)
+* [CVE-2018-8174-POC_IE漏洞](https://14u9h.github.io/Test_script/ClientSec/CVE-2018-8174_PoC.html)
 
 ### Server漏洞
 
@@ -36,7 +36,8 @@
 
 ### 用来远程加载的脚本文件
 
-* [PHPINFO](https://raw.githubusercontent.com/14u9h/Test_script/master/phpinfo.php)
+* [PHPINFO](https://14u9h.github.io/Test_script/phpinfo.php)
+* [xss](https://14u9h.github.io/Test_script/x55.html)
 
 ***
 
