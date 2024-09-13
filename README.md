@@ -37,7 +37,7 @@
 ### 用来远程加载的脚本文件
 
 * [PHPINFO](https://14u9h.github.io/Test_script/phpinfo.php)
-* [xss](https://14u9h.github.io/Test_script/x55.js)
+* [xss](https://raw.githubusercontent.com/14u9h/Test_script/master/x55.js)
 
 ***
 
